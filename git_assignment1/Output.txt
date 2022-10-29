@@ -1,0 +1,1 @@
+hello, this is outut.txt file. 1st line  is written
